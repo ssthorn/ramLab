@@ -6,7 +6,7 @@ import SingleCharacterComponent from './characterContainer/singleCharacterCompon
 function App() {
   return (
     <div className="App">
-      <h1>Rick and Morty</h1>
+      <h1>Rick and Morty Api Interaction (REST)</h1>
       <CharacterContainer />
     </div>
   );
